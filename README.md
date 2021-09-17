@@ -1,3 +1,3 @@
 # Jump
 
-A general purpose process monitoring mini framework.
+A tiny, general purpose process monitoring framework. So tiny that you can implement yourself.
